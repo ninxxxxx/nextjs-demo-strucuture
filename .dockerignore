@@ -1,0 +1,16 @@
+Dockerfile
+docker-compose*.yaml
+node_modules
+.git
+.gitignore
+.gitlab-ci.yml
+
+environment
+service-account
+
+# helper sh
+init-docker-compose.sh
+restart-docker-compose.sh
+run-dev-docker-compose.sh
+run-prod-docker-compose.sh
+
